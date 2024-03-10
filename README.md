@@ -23,7 +23,7 @@ Once the model has been trained and saved to disk
 Run:
 
 ```
-python3 evaluation.py
+python3 eval.py
 ```
 to evaluate the Equal Error Rate (EER) of the model on test data.
 
