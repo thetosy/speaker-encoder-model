@@ -1,6 +1,6 @@
 ## Transformer Speaker Encoder
 
-Implemented a transformer-based speaker recognition system using Pytorch.
+Utilizing contrastive loss, implemented a transformer-based speaker encoder system using Pytorch.
 
 The model is trained on [LibriSpeech](https://www.openslr.org/12) and evaluated on Equal Error Rate (EER)
 ### Update model hyperparameter
